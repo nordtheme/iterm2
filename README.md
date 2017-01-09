@@ -27,6 +27,8 @@ Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color pa
   4. Select an existing profile from the profile list window on the left or create a new profile
   5. Click on the *Load Presets* drop-down menu and select `Nord`
 
+![][scrot-readme-activation]
+
 ## Screenshots
 <p align="center"><strong>htop</strong><br><img src="https://raw.githubusercontent.com/arcticicestudio/nord-iterm2/develop/src/assets/scrot-htop.png"/></p>
 
@@ -41,3 +43,5 @@ Please report issues/bugs, feature requests and suggestions for improvements to 
 <p align="center"> <img src="http://arcticicestudio.com/favicon.ico" width=16 height=16/> Copyright &copy; 2016 Arctic Ice Studio</p>
 
 <p align="center"><a href="http://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg"/></a> <a href="https://creativecommons.org/licenses/by-sa/4.0"><img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-blue.svg"/></a></p>
+
+[scrot-readme-activation]: https://raw.githubusercontent.com/arcticicestudio/nord-iterm2/develop/src/assets/scrot-readme-activation.png
