@@ -13,7 +13,7 @@ Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color pa
 
 ## Getting started
 ### Installation
-[Download](https://github.com/arcticicestudio/nord-iterm2/releases/latest) the latest [`Nord.itermcolors`](https://github.com/arcticicestudio/nord-iterm2-syntax/blob/develop/src/xml/Nord.itermcolors) file from the GitHub repository and import it:
+[Download](https://github.com/arcticicestudio/nord-iterm2/releases/latest) the latest [`Nord.itermcolors`](https://github.com/arcticicestudio/nord-iterm2/blob/develop/src/xml/Nord.itermcolors) file from the GitHub repository and import it:
   1. Start iTerm2 and open the *Preferences*
   2. Switch to the *Profiles* tab located in the topbar
   3. Select the *Colors* tabs on the right side
