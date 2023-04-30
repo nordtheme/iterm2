@@ -8,3 +8,4 @@
 **/*.png
 .husky/_/
 node_modules/
+go.*
